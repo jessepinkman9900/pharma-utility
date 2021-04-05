@@ -7,7 +7,7 @@
 - Shahbaz Shaik
 
 ### About
-Code to obtain utilities and penalties of game designed to revent over-pricing by pharma compnaies. 
+Code to obtain utilities and penalties of game designed to prevent over-pricing by pharma compnaies. 
 
 ### Run Instructions
 - ```python3 utility.py```
