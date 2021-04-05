@@ -4,7 +4,7 @@
 - Shivansh Seth
 - Anirudh Palutla
 - Srinivas Kota
-- Shahbaz Sheikh
+- Shahbaz Shaik
 
 ### About
 Code to obtain utilities and penalties of game designed to revent over-pricing by pharma compnaies. 
